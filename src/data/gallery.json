@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "species": "Rhaphidophora tetrasperma",
+    "commonName": "Mini Monstera",
+    "type": "Tropical, vining",
+    "description": "Trailing/climbing plant with green fenestrated leaves, can grow over 12ft high",
+    "careReqs": "Bright, indirect light; Moist, well-draining soil, medium-high humidity",
+    "toxicity": "Toxic",
+    "image":"https://jiffyplants.com/wp-content/uploads/2022/04/ezgif.com-gif-maker-90.webp"
+  },
+  {
+    "id": 2,
+    "species": "Geogenanthus ciliatus",
+    "commonName": "Geo Plant",
+    "type": "Tropical, flowering",
+    "description": "Deep purple, round, glossy leaves",
+    "careReqs": "Low, indirect light; Consistently moist, well-draining soil; High humidity",
+    "toxicity": "Non-Toxic",
+    "image": "https://www.bybrittanygoldwyn.com/wp-content/uploads/2022/01/Geogenanthus-ciliatus-care-propagation-8.jpg"
+  },
+  {
+    "id": 3,
+    "species": "Philodendron hederaceum",
+    "commonName": "Philodendron Brasil",
+    "type": "Tropical, vining, flowering",
+    "description": "Heart-shaped, variegated yellow and green leaves, trailing",
+    "careReqs": "Bright, indirect light; Water after soil almost completely dry; Tolerates low humidity but prefers medium-high",
+    "toxicity": "Mildly Toxic",
+    "image": "https://cdn.shopify.com/s/files/1/0532/5881/3612/products/DSC_0399_1200x1200.jpg?v=1645630040"
+  },
+  {
+    "id": 4,
+    "species": "Epipremnum aureum",
+    "commonName": "Pearls and Jade Pothos",
+    "type": "Tropical, vining, flowering",
+    "description": "Variegated white and green leaves, trailing up to 6-10ft",
+    "careReqs": "Needs several hours of bright, indirect light; Water once top 1-2in of soil is dry; Medium-high humidity ",
+    "toxicity":"Toxic",
+    "image": "https://www.bybrittanygoldwyn.com/wp-content/uploads/2021/10/Pearls-and-Jade-Pothos-Care-9.jpg"
+  },
+  {
+    "id": 5,
+    "species": "Dracaena trifasciata",
+    "commonName": "Snake Plant",
+    "type": "Succulent",
+    "description": "Stiff, sword-like leaves, ranges from 6 inches to 8 feet, vary in color",
+    "careReqs":"Shade to partial sun; Sandy, well-draining soil, water infrequently, ~ every 2-3 weeks; Low-medium humidity",
+    "toxicity": "Toxic",
+    "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/at%2Fart%2Fphoto%2F2020-02%2Ffake-snake-plants%2FAT-Snake-Plants-lead"
+  },
+  {
+    "id": 6,
+    "species": "Zamioculcas zamiifolia",
+    "commonName": "ZZ Plant",
+    "type": "Succulent",
+    "description": "Small, deep green, waxy leaves. Grows 2-4ft tall",
+    "careReqs": "'Low-bright, indirect light; Water when soil is completely dry, ~ every 2 weeks; Tolerates all humidity levels",
+    "toxicity": "Toxic",
+    "image": "https://www.plants.com/images/157648MDS_20220221-1645464576744.jpg"
+  }
+]
